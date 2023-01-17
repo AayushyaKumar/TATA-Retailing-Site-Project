@@ -1,2 +1,2 @@
-# TATA-Retailing-Site-Project
-Engaging site with integrating CPaaS
+# TATA-Site-Project
+Engaging site with Integrating CPaaS
